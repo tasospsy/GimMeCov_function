@@ -41,6 +41,6 @@ gimmecov <- function(data = NULL, cov.txt,
 ## setwd("/Users/tasospsy/Google Drive/_UvA/SEM/week3/Assignment2/")
 
 ## covmat <- gimmecov(cov.txt = "savacov.txt",
-                   names.txt = "savanames.txt",
-                   nvars = 6)
+##                   names.txt = "savanames.txt",
+##                   nvars = 6)
 
