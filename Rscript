@@ -43,4 +43,3 @@ gimmecov <- function(data = NULL, cov.txt,
 ## covmat <- gimmecov(cov.txt = "savacov.txt",
 ##                   names.txt = "savanames.txt",
 ##                   nvars = 6)
-
