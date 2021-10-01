@@ -5,7 +5,7 @@
 ##
 ## Arguments:
 ## type:      'full' for full data in the covariance matrix, 
-##            or 'half' for only one a triangle WITHOUT diagonal values
+##            or 'half' for only one a triangle WITH diagonal values
 ## data:      (Optional) A vector with your row-wised written values 
 ##            including the diagonal. 
 ## cov.txt:   A .txt file with the values including the diagonal.
