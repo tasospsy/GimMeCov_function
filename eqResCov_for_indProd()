@@ -1,5 +1,7 @@
 ## Function for specifying the residual covariances 
 # that are constrained to equality.
+## 24-1-2022
+
 eqResCovFun <-  function(x1, x2) {
   tog <- expand.grid(x1, x2)
   tognames <- c()
