@@ -1,5 +1,6 @@
 ## Function for specifying the residual covariances 
 # that are constrained to equality.
+## Based on Shoemann & Jorgensen, 2021 (https://doi.org/10.3390/psych3030024).
 ## 24-1-2022
 
 eqResCovFun <-  function(x1, x2) {
